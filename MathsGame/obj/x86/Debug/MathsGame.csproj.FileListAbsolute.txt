@@ -1,0 +1,5 @@
+C:\Users\Alan\Desktop\C #\MathsGame\MathsGame\bin\Debug\MathsGame.exe
+C:\Users\Alan\Desktop\C #\MathsGame\MathsGame\bin\Debug\MathsGame.pdb
+C:\Users\Alan\Desktop\C #\MathsGame\MathsGame\obj\x86\Debug\MathsGame.exe
+C:\Users\Alan\Desktop\C #\MathsGame\MathsGame\obj\x86\Debug\MathsGame.pdb
+C:\Users\Alan\Desktop\C #\MathsGame\MathsGame\obj\x86\Debug\MathsGame.csprojResolveAssemblyReference.cache
